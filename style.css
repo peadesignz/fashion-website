@@ -1,0 +1,136 @@
+body {
+    
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+.header img{
+    margin-top: 50px;
+}
+
+.nav {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+
+}
+.nav a{
+    margin-right: 30px;
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: 14px;
+    color: black;
+
+}
+.banner-txt h1{
+    font-weight: bolder;
+    font-size: 70px;
+    text-transform: uppercase;
+    color: white;
+}
+.banner-txt h3{
+    font-size: 40px;
+    color: yellow
+}
+.banner{
+    background-image: url(./images/beyonceking.jpg);
+    padding: 150px 0px;
+
+}
+.products {
+    margin-top: 60px;
+    text-align: center;
+}
+#shop {
+    margin-top: 120px;
+}
+.mybtn {
+    background-color: #a0ce4e;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.mybtn:hover {
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-width: 2px;
+}
+.header1 img{
+    margin-top: 80px;
+}
+.navigate a{
+    margin-right: 60px;
+    font-size: 14px;
+    color: white;
+
+}
+.navigate {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.row-md-3 {
+    
+}
+.footer-up {
+    background-color: #282828;
+    margin-top: 120px;
+    padding: 150px 0px;
+    
+}
+.footer-up p,a {
+    color: white;
+    text-align: center;
+}
+.footer-up a:hover {
+    color: #a0ce4e;
+}
+.footer-up img{
+    margin-bottom: 30px;
+    
+}
+.logos img{
+    margin-top: 30px;
+    margin-left: 10px;
+    text-align: center;
+
+}
+.ft-logo{
+    text-align: center;
+
+}
+.footer-down{
+    background-color: #252525;
+    padding: 20px 0px;
+    color: white;
+}
+.footer-down p{
+    text-align: center;
+}
+.footer{
+    margin-bottom: 200px;
+}
+
+.nav .press{
+    font-weight: bolder;
+}
+.press-bannertxt h3{
+    font-size: 26px;
+    color: #666666;
+    font-weight: bold;
+}
+.press-bannertxt h3:hover {
+    color: black;
+}
+
+.press-bannertxt h6{
+    color: #666666;
+    font-size: 12px;
+}
+.read:hover {
+    color: black;
+}
+
